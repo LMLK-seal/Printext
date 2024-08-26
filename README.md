@@ -2,7 +2,7 @@
 
 ![LLModel Chat Demo](https://raw.githubusercontent.com/LMLK-seal/Printext/main/Printext.gif)
 
-PrinText is a lightweight, user-friendly desktop application that extracts text from images using Optical Character Recognition (OCR) technology. Built with Python, it provides a simple graphical interface for users to load images, extract text, and easily copy the results to their clipboard.
+Printext is a lightweight, user-friendly desktop application that extracts text from images using Optical Character Recognition (OCR) technology. Built with Python, it provides a simple graphical interface for users to load images, extract text, and easily copy the results to their clipboard.
 
 ## Features
 
@@ -34,7 +34,7 @@ PrinText is a lightweight, user-friendly desktop application that extracts text 
    - For macOS: Use Homebrew: `brew install tesseract`
    - For Linux: Use your distribution's package manager, e.g., `sudo apt-get install tesseract-ocr`
 
-4. Clone this repository or download the `printext.py` file.
+4. Download the `printext.py` file.
 
 ## Usage
 
