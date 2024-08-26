@@ -1,4 +1,4 @@
-# Printext lightweight application that extracts text from images.
+# Printext: lightweight application that extracts text from images.
 
 ![LLModel Chat Demo](https://raw.githubusercontent.com/LMLK-seal/Printext/main/Printext.gif)
 
