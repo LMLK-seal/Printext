@@ -1,6 +1,6 @@
 # PrinText
 
-![LLModel Chat Demo]([?raw=true](https://github.com/LMLK-seal/Printext/blob/main/Printext.gif?raw=true)
+![LLModel Chat Demo]([?raw=true](https://github.com/LMLK-seal/Printext/blob/main/Printext.gif?raw=true))
 
 PrinText is a lightweight, user-friendly desktop application that extracts text from images using Optical Character Recognition (OCR) technology. Built with Python, it provides a simple graphical interface for users to load images, extract text, and easily copy the results to their clipboard.
 
